@@ -1,5 +1,6 @@
 # MyWeb
 My own LVM ArchLinux dualboot Debian.
+I'll push a new version with a faster boot.
 1-ArchLinux:
 -> architecture: 1 partition /dev/sda1 with 4 subpartitions (rooot, home, boot, swap) ;
 -> display manager: LightDM display manager ;
